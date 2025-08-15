@@ -1,8 +1,4 @@
-README.md
 
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gcezair0.gcezair0&"  />
 
