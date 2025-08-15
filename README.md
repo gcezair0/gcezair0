@@ -1,5 +1,3 @@
-
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gcezair0.gcezair0&"  />
 
 ###
@@ -73,3 +71,8 @@
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/gcezair0/gcezair0/output/snake.svg" alt="Snake animation" />
+
+###
