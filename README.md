@@ -215,9 +215,9 @@ Principais tecnologias utilizadas nos projetos:
 
 Caso queira conversar sobre projetos ou oportunidades:
 
-- LinkedIn
-- Email
-- GitHub
+- LinkedIn: https://www.linkedin.com/in/guilherme-cezar-3175a81b5/
+- Email: gcezair0@gmail.com
+- Whatsapp: (87) 9 9618-2672
 
 ---
 
