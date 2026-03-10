@@ -1,68 +1,224 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gcezair0.gcezair0&"  />
+# 👨‍💻 Guilherme Cezar
 
-###
+Engenheiro de Software Mobile especializado em **Flutter**, com experiência em **sistemas comerciais, pagamentos POS, integrações financeiras e aplicações offline-first**.
 
-<h2 align="left">Hi 👋! My name is Guilherme and I'm a full stack developer from Brazil</h2>
+Atuo no desenvolvimento de aplicações voltadas para **varejo, food service e setor financeiro**, integrando soluções mobile com APIs REST, sistemas locais e serviços bancários.
 
-###
+---
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"  />
+# 🚀 Projetos
 
-###
+## 🍽️ Cummins Garçom
+Aplicativo desenvolvido para a **Bravil Sistemas**, voltado para o setor **food service**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-</div>
+O sistema permite que garçons registrem pedidos diretamente nas mesas e enviem automaticamente para monitores de produção na cozinha ou outros setores.
 
-###
+### Funcionalidades
+- Registro de pedidos por mesa
+- Gestão de comandas
+- Envio para monitores de produção
+- Integração com maquinetas POS
+- Fluxo otimizado para atendimento em restaurantes
 
-<div align="left">
-  <a href="gcezair0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-cezar-3175a81b5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### Tecnologias
+- Flutter
+- Hive
+- Provider
+- Integração POS
 
-###
+### Screenshots
+![Cummins Garçom](images/cummins_garcom.png)
+
+---
+
+## 🛒 mPm+
+Sistema desenvolvido para a **Bravil Sistemas**, voltado para o setor **varejista**.
+
+Permite que vendedores realizem vendas externas mesmo **sem conexão com internet**, sincronizando posteriormente com o servidor.
+
+### Funcionalidades
+- Vendas offline
+- Sincronização automática
+- Cadastro de clientes
+- Gestão de pedidos
+- Integração com pagamentos POS
+
+### Tecnologias
+- Flutter
+- Provider
+- Offline-first architecture
+- Integração POS
+
+### Screenshots
+![mPm+](images/mpm_plus.png)
+
+---
+
+## 📦 Siscomercio
+Sistema freelancer desenvolvido para o setor **varejista**, com foco em **pré-vendas e sincronização de dados**.
+
+### Funcionalidades
+- Registro de pré-vendas
+- Operação offline
+- Sincronização com API
+- Gestão de clientes
+
+### Tecnologias
+- Flutter
+- API REST
+- Banco de dados local
+
+### Screenshots
+![Siscomercio](images/siscomercio.png)
+
+---
+
+## 💳 Conexão PIX
+Aplicativo financeiro que simula um **app bancário**, integrado com a API da Matera.
+
+### Funcionalidades
+- Envio de PIX
+- Recebimento de pagamentos
+- Cadastro de chaves PIX
+- Consulta de transações
+
+### Tecnologias
+- Flutter
+- Provider
+- API bancária
+
+### Screenshots
+![Conexao PIX](images/conexao_pix.png)
+
+---
+
+## 💰 Pix Fácil
+Aplicativo desenvolvido para a **Bravil Sistemas** focado em **gestão de pagamentos PIX**.
+
+### Funcionalidades
+- Geração de QR Code PIX
+- Recebimento de pagamentos
+- Relatórios financeiros
+- Histórico de transações
+
+### Tecnologias
+- Flutter
+- Provider
+
+### Screenshots
+![Pix Facil](images/pix_facil.png)
+
+---
+
+## ⛪ Pix Solidário
+Aplicativo voltado para igrejas e instituições que desejam receber **doações ou dízimos via PIX**.
+
+### Funcionalidades
+- Geração de QR Code para doações
+- Recebimento de pagamentos PIX
+- Interface simples para autoatendimento
+
+### Tecnologias
+- Flutter
+- Provider
+
+### Screenshots
+![Pix Solidario](images/pix_solidario.png)
+
+---
+
+## 🍔 mPm+ Autoatendimento
+Sistema de **autoatendimento para restaurantes**, desenvolvido para a Bravil Sistemas.
+
+O cliente pode realizar o pedido e pagamento diretamente no sistema.
+
+### Funcionalidades
+- Pedido direto pelo cliente
+- Pagamento no momento da compra
+- Integração com sistema de produção
+
+### Tecnologias
+- Flutter
+- Provider
+- Integração POS
+
+### Screenshots
+![mpm auto atendimento](images/mpm_auto.png)
+
+---
+
+# ⚙️ APIs Desenvolvidas
+
+## 🔌 API REST Conexão PIX
+API responsável por intermediar a comunicação entre o aplicativo Conexão PIX e a API bancária da Matera.
+
+### Funcionalidades
+- Centralização das transações PIX
+- Integração com serviços bancários
+- Redução de chamadas diretas do aplicativo
+
+### Tecnologias
+- REST API
+- Banco SQL
+
+---
+
+## 🔗 API REST Siscomercio
+API responsável pela sincronização de dados entre o sistema Siscomercio e aplicações móveis.
+
+### Funcionalidades
+- Sincronização de produtos
+- Sincronização de clientes
+- Sincronização de pré-vendas
+
+### Tecnologias
+- REST API
+- Banco SQL
+
+---
+
+# 🖥️ Aplicações Desktop
+
+## 🔄 Sincronizador Local (.NET)
+Aplicação desenvolvida em **C# (.NET)** responsável por sincronizar dados do sistema local com o banco em nuvem.
+
+### Funcionalidades
+- Sincronização automática
+- Envio de dados via API REST
+- Integração com banco local
+
+### Tecnologias
+- C#
+- .NET
+- REST API
+
+---
+
+# 🛠️ Tecnologias
+
+Principais tecnologias utilizadas nos projetos:
+
+- Flutter
+- Dart
+- Hive
+- Provider
+- REST APIs
+- SQL
+- C#
+- .NET
+- Integração POS
+- Sistemas Offline First
+
+---
+
+# 📫 Contato
+
+Caso queira conversar sobre projetos ou oportunidades:
+
+- LinkedIn
+- Email
+- GitHub
+
+---
+
+⭐ Caso tenha interesse em algum projeto ou tecnologia utilizada, fique à vontade para entrar em contato.
