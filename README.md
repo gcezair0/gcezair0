@@ -1,6 +1,6 @@
 # 👨‍💻 Guilherme Cezar
 
-Desenvolvedor Mobile **Flutter**, com experiência em sistemas de **pagamentos, POS, varejo e aplicações offline-first**.
+Desenvolvedor Full Stack **Flutter, Java, PHP, React**, com experiência em sistemas de **pagamentos, POS, varejo e aplicações offline-first**.
 
 Especializado na construção de aplicações escaláveis integradas a **APIs REST, serviços financeiros e sistemas distribuídos**, com foco em **performance, confiabilidade e experiência do usuário**.
 
