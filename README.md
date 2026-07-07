@@ -1,47 +1,123 @@
-# 👨‍💻 Guilherme Cezar
+# Guilherme Cezar
 
-Desenvolvedor Full Stack **Flutter, Java, PHP, React**, com experiência em sistemas de **pagamentos, POS, varejo e aplicações offline-first**.
+Mobile Software Engineer • Flutter • Payment Systems • Offline-First Applications
 
-Especializado na construção de aplicações escaláveis integradas a **APIs REST, serviços financeiros e sistemas distribuídos**, com foco em **performance, confiabilidade e experiência do usuário**.
+Tenho experiência na construção de aplicativos Flutter escaláveis, APIs backend e integrações financeiras, com foco em arquitetura, performance, confiabilidade e operação offline.
 
----
+Atualmente desenvolvo aplicações utilizadas por mais de 10 mil usuários e mantenho projetos open source para o ecossistema Flutter.
 
-## 🚀 Principais Projetos
+📱 10k+ usuários em produção
 
-### 🍽️ Food Service & Varejo
-- Aplicações utilizadas por **+10 mil usuários ativos**
-- Sistemas **offline-first** com sincronização automática  
-- Integração com **maquinetas POS e fluxos de pagamento**  
-- Soluções de **gestão de pedidos, autoatendimento e vendas externas**  
+🚀 4+ anos de experiência
 
----
+📦 Flutter Package publicado
 
-### 💳 Pagamentos & PIX
-- Desenvolvimento de aplicações com **envio e recebimento de PIX**  
-- Integração com **APIs bancárias (ex: Matera)**  
-- Implementação de **QR Code, histórico e relatórios financeiros**  
+💳 Sistemas de pagamento
+
+🖨️ Integração POS
+
+🌐 Android • iOS • Web
 
 ---
 
-### 🔌 APIs & Integrações
-- Desenvolvimento de APIs REST para **sincronização e intermediação de serviços**  
-- Integração entre **apps mobile, sistemas locais e serviços externos**  
+## Projetos em Destaque
+
+### Cummins Garçom
+
+Aplicação de pedidos utilizada em produção por mais de 10 mil usuários.
+
+Tecnologias:
+
+Flutter • BLoC • REST • Offline • SQLite
+
+Google Play
+
+App Store
+
+### POS Printer Unity
+
+Package Flutter para integração com impressoras POS.
+
+✔ Publicado no pub.dev
+
+✔ Open Source
+
+✔ Arquitetura extensível
+
+### Conexão PIX
+
+Integração com API Matera para pagamentos PIX.
+
+Flutter
+
+Node.js
+
+TypeScript
+
+JWT
+
+Arquitetura modular
 
 ---
 
-### 🖥️ Sistemas de Sincronização
-- Aplicações em **.NET (C#)** para sincronização entre **offline e cloud**  
-- Integração com bancos locais e processamento de dados distribuídos  
+## Open Source
 
+- pos_printer_unity
+  
+---
+
+## Atualmente
+
+- Desenvolvendo aplicações Flutter em produção
+- Evoluindo o package POS Printer Unity
+- Construindo um portfólio em Flutter Web
+- Estudando arquitetura mobile e sistemas distribuídos
+  
 ---
 
 ## ⚙️ Stack Principal
 
-- **Flutter / Dart**  
-- **Clean Architecture, BLoC, Offline-first**  
-- **SQLite (Drift/Hive), SQL**  
-- **REST APIs, Firebase, POS**  
-- **Node.js, .NET**  
+Mobile
+
+Flutter
+
+Dart
+
+Android
+
+iOS
+
+Backend
+
+Node.js
+
+TypeScript
+
+.NET
+
+Databases
+
+PostgreSQL
+
+SQLite
+
+Firebird
+
+Architecture
+
+Clean Architecture
+
+BLoC
+
+SOLID
+
+Offline First
+
+DevOps
+
+Docker
+
+GitHub Actions
 
 ---
 
